@@ -25,7 +25,8 @@ El juego consiste en controlar una serpiente que se mueve por la pantalla. El ob
 
 ## Capturas de Pantalla
 
-![CapturaJuegoSnakeGame](SnakeGame.png)
+![SnakeGame](https://github.com/MiguelAntonioRS/Snake-Game/assets/159189630/e2566259-f7da-428d-b153-b5c752031ae6)
+
 
 ## Contribución
 Las contribuciones son bienvenidas. Si deseas mejorar el juego, por favor abre un PR.
