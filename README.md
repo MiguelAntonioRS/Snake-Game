@@ -10,25 +10,22 @@ El juego consiste en controlar una serpiente que se mueve por la pantalla. El ob
 
 1. **Clonar el Repositorio:**
    ```bash
-   https://github.com/MiguelAntonioRS/snake-game.git
+   git clone https://github.com/tu_usuario/snake-game.git
    ```
-  Compilar y Ejecutar el Juego:
-  ```bash
-   cd snake-game
-   javac SnakeGame.java
-   java SnakeGame
-  ```
-  Controles:
+   1. Compilar y Ejecutar el Juego: 
+    cd snake-game
+    javac SnakeGame.java
+    java SnakeGame
 
-    Flecha Izquierda: Mover la serpiente hacia la izquierda.
-    Flecha Derecha: Mover la serpiente hacia la derecha.
-    Flecha Arriba: Mover la serpiente hacia arriba.
-    Flecha Abajo: Mover la serpiente hacia abajo.
+    2. Controles:
+        Flecha Izquierda: Mover la serpiente hacia la izquierda.
+        Flecha Derecha: Mover la serpiente hacia la derecha.
+        Flecha Arriba: Mover la serpiente hacia arriba.
+        Flecha Abajo: Mover la serpiente hacia abajo.
 
-  Capturas de Pantalla
-  
-  ![CapturaJuegoSnakeGame](SnakeGame.png)
+## Capturas de Pantalla
 
-  Contribución
+![CapturaJuegoSnakeGame](SnakeGame.png)
 
-  Las contribuciones son bienvenidas. Si deseas mejorar el juego, por favor abre un PR.
+## Contribución
+Las contribuciones son bienvenidas. Si deseas mejorar el juego, por favor abre un PR.
