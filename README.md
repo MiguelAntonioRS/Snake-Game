@@ -10,7 +10,7 @@ El juego consiste en controlar una serpiente que se mueve por la pantalla. El ob
 
 1. **Clonar el Repositorio:**
    ```bash
-   git clone https://github.com/tu_usuario/snake-game.git
+   git clone https://github.com/MiguelAntonioRS/Snake-Game.git
    ```
    1. Compilar y Ejecutar el Juego: 
     cd snake-game
