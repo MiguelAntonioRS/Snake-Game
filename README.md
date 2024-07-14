@@ -1,7 +1,7 @@
 # Snake Game
 
 Este es un clásico juego de Snake implementado en Java.
-
+ 
 ## Descripción
 
 El juego consiste en controlar una serpiente que se mueve por la pantalla. El objetivo es comer manzanas que aparecen aleatoriamente, lo que hace que la serpiente crezca. El juego termina si la serpiente choca consigo misma o con los bordes de la pantalla.
