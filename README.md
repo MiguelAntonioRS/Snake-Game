@@ -12,7 +12,7 @@ El juego consiste en controlar una serpiente que se mueve por la pantalla. El ob
    ```bash
    git clone https://github.com/MiguelAntonioRS/Snake-Game.git
    ```
-   1. Compilar y Ejecutar el Juego: 
+   1. Compilar y Ejecutar el Juego:
     cd snake-game
     javac SnakeGame.java
     java SnakeGame
