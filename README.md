@@ -1,5 +1,5 @@
 # Snake Game
- 
+
 Este es un clásico juego de Snake implementado en Java.
 
 ## Descripción
